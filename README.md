@@ -6,7 +6,7 @@ Let us assume that you work for Nike. As a general manager you are responsible f
 perform stock taking. To optimise your delivery time and for improved organisation, you have decided to use your Python knowledge to get 
 an overview of what each stock-taking session entails.
 
-Nike warehouses store the following information: 
+The warehouses database stores the following information: 
 
 ●Country 
 ●Code 
