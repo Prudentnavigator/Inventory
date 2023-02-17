@@ -22,3 +22,6 @@ Other store managers (in other regions) would like to be able to use your progra
 ●Determine the product with the highest quantity. 
 ●Calculate the total value of each stock item. The total value is calculated by multiplying the cost by the quantity for each item entered 
 into the system.
+●Add new products.
+●View all products in stock.
+
