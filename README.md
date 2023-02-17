@@ -19,7 +19,7 @@ Other store managers (in other regions) would like to be able to use your progra
 
 ●Search products by code. 
 ●Determine the product with the lowest quantity and restock it. 
-●Determine the product with the highest quantity and offer a disount for that model. 
+●Determine the product with the highest quantity and offer a discount for that model. 
 ●Calculate the total value of each stock item. The total value is calculated by multiplying the cost by the quantity for each item entered 
 into the system.
 ●Add new products.
