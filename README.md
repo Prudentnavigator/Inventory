@@ -3,8 +3,8 @@
 Bootcamp Project IV-OOP
 
 Let us assume that you work for Nike. As a general manager you are responsible for managing the warehouses, and more importantly, 
-perform stock taking. To optimise your delivery time and for improved organisation, you have decided to use your Python knowledge to get 
-an overview of what each stock-taking session entails.
+perform stock taking. To optimise your delivery time and for improved organisation, you have decided to use your Python knowledge to 
+achieve those objectives.
 
 The warehouses database stores the following information: 
 
