@@ -1,6 +1,6 @@
 # Inventory
 
-Bootcamp Project III-OOP
+Bootcamp Project IV-OOP
 
 Let us assume that you work for a Nike warehouse. As store manager you are responsible for managing the warehouse, and more importantly, 
 performing stock taking. To optimise your delivery time and for improved organisation, you have decided to use your Python knowledge to get 
