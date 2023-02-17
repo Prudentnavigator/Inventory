@@ -1,29 +1,29 @@
 Country,Code,Product,Cost,Quantity
-South Africa,SKU44386,Air Max 90,2300,20
-China,SKU90000,Jordan 1,3200,50
-Vietnam,SKU63221,Blazer,1700,19
-United States,SKU29077,Cortez,970,60
-Russia,SKU89999,Air Force 1,2000,43
-Australia,SKU57443,Waffle Racer,2700,15
-Canada,SKU68677,Air Max 97,3600,13
-Egypt,SKU19888,Dunk SB,1500,26
-Britain,SKU76000,Kobe 4,3400,32
-France,SKU84500,Pegasus,2490,28
-Zimbabwe,SKU20207,Air Presto,2999,15
-Morocco,SKU77744,Challenge Court,1450,11
-Israel,SKU29888,Air Zoom Generation,2680,15
-Uganda,SKU33000,Flyknit Racer,4900,11
-Pakistan,SKU77999,Air Yeezy 2,4389,67
-Brazil,SKU44600,Air Jordan 11,3870,24
-Columbia,SKU87500,Air Huarache,2683,15
-India,SKU38773,Air Max 1,1900,29
-Vietnam,SKU95000,Air Mag,2000,15
-Israel,SKU79084,Air Foamposite,2430,15
-China,SKU93222,Air Stab,1630,15
-South Korea,SKU66734,Hyperdunk,1899,15
-Australia,SKU71827,Zoom Hyperfuse,1400,15
-France,SKU20394,Eric Koston 1,2322,17
-Spain,SKU36000,Air jump,23444,32
-Turkey,SKU23000,Air,3400,20
-Greece,SKU12000,Jump,3400,12
-Italy,SKU32000,Air Walk 34,4300,12
+South Africa,SKU44386,Air Max 90,15,200
+China,SKU90000,Jordan 1,12,350
+Vietnam,SKU63221,Blazer,8,190
+United States,SKU29077,Cortez,16,600
+Russia,SKU89999,Air Force 1,9,430
+Australia,SKU57443,Waffle Racer,15,270
+Canada,SKU68677,Air Max 97,13,360
+Egypt,SKU19888,Dunk SB,15,260
+Britain,SKU76000,Kobe 4,19,320
+France,SKU84500,Pegasus,21,280
+Zimbabwe,SKU20207,Air Presto,15,150
+Morocco,SKU77744,Challenge Court,11,1100
+Israel,SKU29888,Air Zoom Generation,15,260
+Uganda,SKU33000,Flyknit Racer,11,490
+Pakistan,SKU77999,Air Yeezy 2,4,670
+Brazil,SKU44600,Air Jordan 11,8,240
+Columbia,SKU87500,Air Huarache,15,358
+India,SKU38773,Air Max 1,4,2900
+Vietnam,SKU95000,Air Mag,6,1500
+Israel,SKU79084,Air Foamposite,15,240
+China,SKU93222,Air Stab,11,1500
+South Korea,SKU66734,Hyperdunk,9,1500
+Australia,SKU71827,Zoom Hyperfuse,14,1500
+France,SKU20394,Eric Koston 1,17,200
+Spain,SKU36000,Air jump,14,150
+Turkey,SKU23000,Air,8,200
+Greece,SKU12000,Jump,12,120
+Italy,SKU32000,Air Walk 34,16,120
