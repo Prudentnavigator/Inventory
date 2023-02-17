@@ -12,8 +12,7 @@ Nike warehouses store the following information for each stock-taking list:
 ●Code 
 ●Product 
 ●Cost 
-●Quantity 
-●Value  
+●Quantity  
 
 Other store managers (in other regions) would like to be able to use your program to do the following: 
 
